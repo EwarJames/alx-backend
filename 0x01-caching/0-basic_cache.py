@@ -3,7 +3,7 @@
 from base_caching import BaseCaching
 
 
-def BasicCache(BaseCaching):
+class BasicCache(BaseCaching):
     """Dictinary cache"""
 
     def put(self, key, item):
