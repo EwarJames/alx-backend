@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Implements Python caching"""
+
 from base_caching import BaseCaching
 
 
